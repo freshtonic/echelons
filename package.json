@@ -1,0 +1,35 @@
+
+{
+  "name": "echelons",
+  "version": "0.1.0",
+  "description": "Expressive templates for generating JSON",
+  "main": "lib/echelons.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "spec": "make spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freshtonic/echelons.git"
+  },
+  "keywords": [ ],
+  "author": "James Sadler <freshtonic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freshtonic/echelons/issues"
+  },
+  "homepage": "https://github.com/freshtonic/echelons",
+  "dependencies": {
+    "Q": "~1.0.1",
+    "lodash": ""
+  },
+  "devDependencies": {
+    "jasmine-node": "1.14.3",
+    "wach": "",
+    "coffee-script": ">=1.7.1",
+    "expect.js": "",
+    "lazylet": "~0.1.2"
+  }
+}
